@@ -1,4 +1,4 @@
-![logo](https://github.com/surajBR7/surajBR7/blob/main/me.png)
+![logo](https://github.com/surajBR7/surajBR7/blob/main/welcom.png)
 <h1 align="center">Hi, I'm Suraj B R</h1>
 <h3 align="center">Dedicated and friendly programmerr</h3>
 - 🔭 I’m currently working on **Data visualization tools**
