@@ -1,6 +1,6 @@
 ![logo](https://github.com/surajBR7/surajBR7/blob/main/me.png)
 <h1 align="center">Hi, I'm Suraj B R</h1>
-<h3 align="center">Dedicated data enthusiastic</h3>
+<h3 align="center">Dedicated and friendly programmerr</h3>
 - 🔭 I’m currently working on **Data visualization tools**
 
 - 🌱 I’m currently learning **Tableau**
