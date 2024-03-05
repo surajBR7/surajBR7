@@ -1,5 +1,4 @@
 ![logo](https://github.com/surajBR7/surajBR7/blob/main/me.png)
-<img width=60%, align="right" src="https://github.com/surajBR7/surajBR7/assets/57949505/b1306057-b983-42ec-aa3a-9f11d1e97ad8">
 <h1 align="center">Hi, I'm Suraj B R</h1>
 <h3 align="center">Dedicated data enthusiastic</h3>
 - 🔭 I’m currently working on **Data visualization tools**
