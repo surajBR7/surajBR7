@@ -1,9 +1,9 @@
 ![logo](https://github.com/surajBR7/surajBR7/blob/main/welcom.png)
 <p>Dedicated, Friendly and Hardworking individual passionate towards Analytics. And to explore the new areas and work in a dynamic stable organization. </p>
 <h3 align="center"></h3>
-- 🔭 I’m currently working on Data visualization tools
+- 🔭 I’m currently intrested in Artificial intelligence and machine learning
 
-- 🌱 I’m currently learning **Tableau**
+- 🌱 I’m currently learning **AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/surajBR7](https://github.com/surajBR7)
 
